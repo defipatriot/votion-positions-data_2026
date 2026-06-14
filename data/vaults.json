@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-14T17:08:50.979Z",
+  "capturedAt": "2026-06-14T17:37:00.461Z",
   "epoch": {
     "number": 189,
     "starts_at": "2026-06-08T00:00:00.000Z",
     "ends_at": "2026-06-15T00:00:00.000Z",
-    "progress_pct": 95.92112748015873
+    "progress_pct": 96.2004730489418
   },
   "total_tvl_usd": 0,
-  "unique_holders": 29,
+  "unique_holders": 21,
   "vaults": [
     {
       "address": "terra1v7aw9eartqrjrhwd6c7hkmlkspcy5q4tvc07gjmvzqezk3fttr4s3mffyz",
@@ -18,7 +18,7 @@
       "staked_lst_human": null,
       "exchange_rate": null,
       "lock_vp_human": 995024.782872,
-      "holder_count": 21,
+      "holder_count": 12,
       "total_underlying_usd": 0
     },
     {
