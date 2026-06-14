@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-14T17:08:50.979Z",
-  "capturedAtUnix": 1781456930979,
+  "capturedAt": "2026-06-14T17:37:00.461Z",
+  "capturedAtUnix": 1781458620461,
   "epoch": {
     "number": 189,
     "starts_at": "2026-06-08T00:00:00.000Z",
     "ends_at": "2026-06-15T00:00:00.000Z",
-    "progress_pct": 95.92112748015873
+    "progress_pct": 96.2004730489418
   },
   "retention": "live_only",
   "luna_price_used_usd": 0.05134,
   "vault_count": 6,
   "total_tvl_usd": 0,
-  "unique_holders": 29,
+  "unique_holders": 21,
   "vaults": [
     {
       "address": "terra1v7aw9eartqrjrhwd6c7hkmlkspcy5q4tvc07gjmvzqezk3fttr4s3mffyz",
@@ -25,8 +25,8 @@
       "vdenom_supply_human": 35473.787619,
       "exchange_rate": null,
       "lock_vp_human": 995024.782872,
-      "holder_count": 21,
-      "historical_depositor_count": 31,
+      "holder_count": 12,
+      "historical_depositor_count": 20,
       "holder_discovery_complete": true,
       "total_underlying_usd": 0,
       "holders": [
@@ -37,33 +37,6 @@
           "underlying_usd": null,
           "share_of_vault_pct": 31.801280963180133,
           "implied_vp": 316430.6268543978,
-          "name": null
-        },
-        {
-          "address": "terra149h2na988cka05rwcpmnqfse64r6vspmfmkk0z",
-          "vtoken_balance": 5862.388854,
-          "underlying_lst": null,
-          "underlying_usd": null,
-          "share_of_vault_pct": 16.52597381752397,
-          "implied_vp": 164437.53509530146,
-          "name": "Quarks"
-        },
-        {
-          "address": "terra1cq63m53vke52juv6zgkajx7c0xryv3w8r59tas",
-          "vtoken_balance": 3677.521269,
-          "underlying_lst": null,
-          "underlying_usd": null,
-          "share_of_vault_pct": 10.36686949952391,
-          "implied_vp": 103152.92072826136,
-          "name": null
-        },
-        {
-          "address": "terra1w88tmp6p9nf9sg4fzlr9dqxx7y4xjwfwgt4urz",
-          "vtoken_balance": 3379.885479,
-          "underlying_lst": null,
-          "underlying_usd": null,
-          "share_of_vault_pct": 9.527839302927186,
-          "implied_vp": 94804.3623363443,
           "name": null
         },
         {
@@ -85,6 +58,15 @@
           "name": "Rebel_Defi"
         },
         {
+          "address": "terra1eahaxenujjzzx3kx8zc6qw332j352axt4f7lun",
+          "vtoken_balance": 1966.773452,
+          "underlying_lst": null,
+          "underlying_usd": null,
+          "share_of_vault_pct": 5.544300690762952,
+          "implied_vp": 55167.16591003486,
+          "name": null
+        },
+        {
           "address": "terra1vm5azhvaxeanc7auxh02y8jmxrk8tj93f6aywp",
           "vtoken_balance": 1000,
           "underlying_lst": null,
@@ -92,15 +74,6 @@
           "share_of_vault_pct": 2.8189828803744463,
           "implied_vp": 28049.578284644685,
           "name": null
-        },
-        {
-          "address": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
-          "vtoken_balance": 807.310903,
-          "underlying_lst": null,
-          "underlying_usd": null,
-          "share_of_vault_pct": 2.2757956146966354,
-          "implied_vp": 22644.730373745697,
-          "name": "DeFi_Patriot"
         },
         {
           "address": "terra1uxetja9462lfcpa2uqvrtg6th2sytddh3reely",
@@ -130,49 +103,13 @@
           "name": null
         },
         {
-          "address": "terra1hzyzys3s7s7xsls5gvsta3z3ylcy7fjcnpgmas",
-          "vtoken_balance": 190.25116,
+          "address": "terra1z0nvmv57cqax4s6lssft9yhfn8ksxcf7dm7mq8",
+          "vtoken_balance": 47.493685,
           "underlying_lst": null,
           "underlying_usd": null,
-          "share_of_vault_pct": 0.5363147630113797,
-          "implied_vp": 5336.464806164462,
-          "name": null
-        },
-        {
-          "address": "terra1usghhperaltd00gfm4ypyqgmtr38ea8jww04hj",
-          "vtoken_balance": 117.957498,
-          "underlying_lst": null,
-          "underlying_usd": null,
-          "share_of_vault_pct": 0.33252016747380303,
-          "implied_vp": 3308.658074411819,
-          "name": null
-        },
-        {
-          "address": "terra1sw7x43lamdkm9gj0luzgzdym52y2sxcv7nk9hy",
-          "vtoken_balance": 51.61939,
-          "underlying_lst": null,
-          "underlying_usd": null,
-          "share_of_vault_pct": 0.1455141767053719,
-          "implied_vp": 1447.902120810605,
-          "name": null
-        },
-        {
-          "address": "terra1vg6lsfmcnldxpulym8n495y65gv44t7pftucdw",
-          "vtoken_balance": 51.602782,
-          "underlying_lst": null,
-          "underlying_usd": null,
-          "share_of_vault_pct": 0.14546735903769462,
-          "implied_vp": 1447.4362734144536,
-          "name": null
-        },
-        {
-          "address": "terra1r5ujve9ml9d5v029y0ltsq82y38cn8g2vwkr89",
-          "vtoken_balance": 42.051338,
-          "underlying_lst": null,
-          "underlying_usd": null,
-          "share_of_vault_pct": 0.11854200191883942,
-          "implied_vp": 1179.522297205054,
-          "name": null
+          "share_of_vault_pct": 0.13388388494089662,
+          "implied_vp": 1332.177835433755,
+          "name": "singda"
         },
         {
           "address": "terra1v0pdkd87v5un0ethvns2a4qjm5mngxkey0qec5",
@@ -184,30 +121,12 @@
           "name": null
         },
         {
-          "address": "terra1zagw3g5mlu4g2uhtds52knnxyx7pfjk5pr20xr",
-          "vtoken_balance": 0.553205,
+          "address": "terra1qkzqdx4l2r6gf0nmw3n0jmv2dust2kc4dvwrlc",
+          "vtoken_balance": 1.780169,
           "underlying_lst": null,
           "underlying_usd": null,
-          "share_of_vault_pct": 0.0015594754243375456,
-          "implied_vp": 15.517166954956863,
-          "name": null
-        },
-        {
-          "address": "terra1fnmzw2q4yl72fylkdjzd0f9n9h7v22hv569cdf",
-          "vtoken_balance": 0.465162,
-          "underlying_lst": null,
-          "underlying_usd": null,
-          "share_of_vault_pct": 0.0013112837146007383,
-          "implied_vp": 13.047597934041892,
-          "name": null
-        },
-        {
-          "address": "terra12hnec6088p7tsmfkvl4nwgq23wqwazgxwvrjgr",
-          "vtoken_balance": 0.462036,
-          "underlying_lst": null,
-          "underlying_usd": null,
-          "share_of_vault_pct": 0.0013024715741166877,
-          "implied_vp": 12.959914952324093,
+          "share_of_vault_pct": 0.005018265935173297,
+          "implied_vp": 49.93298972539765,
           "name": null
         },
         {
