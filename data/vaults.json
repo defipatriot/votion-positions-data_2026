@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-14T18:31:11.655Z",
+  "capturedAt": "2026-06-14T22:37:49.320Z",
   "epoch": {
     "number": 189,
     "starts_at": "2026-06-08T00:00:00.000Z",
     "ends_at": "2026-06-15T00:00:00.000Z",
-    "progress_pct": 96.73803819444444
+    "progress_pct": 99.18474206349205
   },
-  "total_tvl_usd": 36652.17977965365,
+  "total_tvl_usd": 37500.173687219336,
   "unique_holders": 29,
   "vaults": [
     {
@@ -19,7 +19,7 @@
       "exchange_rate": 1.4394722548220373,
       "lock_vp_human": 995024.782872,
       "holder_count": 24,
-      "total_underlying_usd": 5652.459262426941
+      "total_underlying_usd": 5783.26125193148
     },
     {
       "address": "terra1dr7mv4w6chznedhp7uw6ntz9zjj4hxcdga2lmenlfuj35vmwpf0qhnzm5p",
@@ -29,8 +29,8 @@
       "staked_lst_human": 1.948455,
       "exchange_rate": 1.000776602088505,
       "lock_vp_human": 0,
-      "holder_count": 2,
-      "total_underlying_usd": 0.2156835192185434
+      "holder_count": 1,
+      "total_underlying_usd": 0.056672072993045226
     },
     {
       "address": "terra13aae4futz6jk7hmdv0gwm2xs6p4nxv4xwz5tc0c2vt4960u4j6jqpqmye9",
@@ -41,7 +41,7 @@
       "exchange_rate": 1.4093421416143794,
       "lock_vp_human": 5501626.088895,
       "holder_count": 10,
-      "total_underlying_usd": 30962.455424824002
+      "total_underlying_usd": 31678.94900425295
     },
     {
       "address": "terra1mzelg87h36y6wvtgj6fh9s4crgx9acw63l3zc6f9px6pc5f8h8lqs0sux0",
@@ -74,7 +74,7 @@
       "exchange_rate": 1.0564766903208678,
       "lock_vp_human": 0,
       "holder_count": 1,
-      "total_underlying_usd": 37.04940888348873
+      "total_underlying_usd": 37.906758961912246
     }
   ]
 }
