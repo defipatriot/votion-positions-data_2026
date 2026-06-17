@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-16T05:00:10.958Z",
+  "capturedAt": "2026-06-17T05:00:26.336Z",
   "epoch": {
     "number": 190,
     "starts_at": "2026-06-15T00:00:00.000Z",
     "ends_at": "2026-06-22T00:00:00.000Z",
-    "progress_pct": 17.2637166005291
+    "progress_pct": 31.551973544973542
   },
-  "total_tvl_usd": 36508.86006747498,
-  "unique_holders": 21,
+  "total_tvl_usd": 39105.20822774915,
+  "unique_holders": 29,
   "vaults": [
     {
       "address": "terra1v7aw9eartqrjrhwd6c7hkmlkspcy5q4tvc07gjmvzqezk3fttr4s3mffyz",
       "label": "ampLUNA-MAX",
       "lst_symbol": "ampLUNA",
       "vdenom": "factory/terra1v7aw9eartqrjrhwd6c7hkmlkspcy5q4tvc07gjmvzqezk3fttr4s3mffyz/max/vampluna",
-      "staked_lst_human": 51538.014456,
-      "exchange_rate": 1.4527992269894776,
-      "lock_vp_human": 1004358.911706,
-      "holder_count": 12,
-      "total_underlying_usd": 3570.118781375518
+      "staked_lst_human": 51543.097133,
+      "exchange_rate": 1.45294250199327,
+      "lock_vp_human": 1005791.052735,
+      "holder_count": 21,
+      "total_underlying_usd": 5691.597099578554
     },
     {
       "address": "terra1dr7mv4w6chznedhp7uw6ntz9zjj4hxcdga2lmenlfuj35vmwpf0qhnzm5p",
@@ -30,18 +30,18 @@
       "exchange_rate": 1.000776602088505,
       "lock_vp_human": 0,
       "holder_count": 2,
-      "total_underlying_usd": 0.22487052600124535
+      "total_underlying_usd": 0.22812038670083604
     },
     {
       "address": "terra13aae4futz6jk7hmdv0gwm2xs6p4nxv4xwz5tc0c2vt4960u4j6jqpqmye9",
       "label": "arbLUNA-MAX",
       "lst_symbol": "arbLUNA",
       "vdenom": "factory/terra13aae4futz6jk7hmdv0gwm2xs6p4nxv4xwz5tc0c2vt4960u4j6jqpqmye9/max/varbluna",
-      "staked_lst_human": 208984.071178,
-      "exchange_rate": 1.4223696403764157,
-      "lock_vp_human": 5554088.917668,
+      "staked_lst_human": 209004.311117,
+      "exchange_rate": 1.4225073957306607,
+      "lock_vp_human": 5560464.087531,
       "holder_count": 14,
-      "total_underlying_usd": 32899.835770319456
+      "total_underlying_usd": 33374.14850842808
     },
     {
       "address": "terra1mzelg87h36y6wvtgj6fh9s4crgx9acw63l3zc6f9px6pc5f8h8lqs0sux0",
@@ -74,7 +74,7 @@
       "exchange_rate": 1.0573904277976067,
       "lock_vp_human": 0,
       "holder_count": 1,
-      "total_underlying_usd": 38.680645254007786
+      "total_underlying_usd": 39.23449935581658
     }
   ]
 }
