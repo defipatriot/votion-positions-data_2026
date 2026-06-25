@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-24T05:00:38.135Z",
+  "capturedAt": "2026-06-25T05:00:26.292Z",
   "epoch": {
     "number": 191,
     "starts_at": "2026-06-22T00:00:00.000Z",
     "ends_at": "2026-06-29T00:00:00.000Z",
-    "progress_pct": 31.553924437830688
+    "progress_pct": 45.83768055555556
   },
   "total_tvl_usd": 0,
   "unique_holders": 0,
@@ -15,9 +15,9 @@
       "label": "ampLUNA-MAX",
       "lst_symbol": "ampLUNA",
       "vdenom": "factory/terra1v7aw9eartqrjrhwd6c7hkmlkspcy5q4tvc07gjmvzqezk3fttr4s3mffyz/max/vampluna",
-      "staked_lst_human": 51987.617861,
-      "exchange_rate": 1.4650214647476727,
-      "lock_vp_human": 1019855.4399,
+      "staked_lst_human": 51990.377961,
+      "exchange_rate": 1.4650992449174751,
+      "lock_vp_human": 1020682.051452,
       "holder_count": 0,
       "total_underlying_usd": 0
     },
@@ -37,9 +37,9 @@
       "label": "arbLUNA-MAX",
       "lst_symbol": "arbLUNA",
       "vdenom": "factory/terra13aae4futz6jk7hmdv0gwm2xs6p4nxv4xwz5tc0c2vt4960u4j6jqpqmye9/max/varbluna",
-      "staked_lst_human": 211116.013852,
-      "exchange_rate": 1.4342126495062142,
-      "lock_vp_human": 5625387.929511,
+      "staked_lst_human": 211127.160289,
+      "exchange_rate": 1.4342883726152793,
+      "lock_vp_human": 5625783.588627,
       "holder_count": 0,
       "total_underlying_usd": 0
     },
