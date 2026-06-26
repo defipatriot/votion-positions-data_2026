@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-25T05:00:26.292Z",
-  "runId": "votion-20260625050026",
+  "capturedAt": "2026-06-26T05:00:30.217Z",
+  "runId": "votion-20260626050030",
   "status": "ok",
-  "next_expected_run_at": "2026-06-26T06:00:26.292Z",
+  "next_expected_run_at": "2026-06-27T06:00:30.217Z",
   "stats": {
     "vault_count": 6,
     "unique_holders": 0,
