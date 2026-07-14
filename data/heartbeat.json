@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-07-13T05:00:35.610Z",
-  "runId": "votion-20260713050035",
+  "capturedAt": "2026-07-14T05:00:46.426Z",
+  "runId": "votion-20260714050046",
   "status": "ok",
-  "next_expected_run_at": "2026-07-14T06:00:35.610Z",
+  "next_expected_run_at": "2026-07-15T06:00:46.426Z",
   "stats": {
     "vault_count": 6,
     "unique_holders": 2,
-    "total_tvl_usd": 748.8091365115296,
+    "total_tvl_usd": 750.9420540194641,
     "any_discovery_incomplete": false,
     "error_count": 0
   },
