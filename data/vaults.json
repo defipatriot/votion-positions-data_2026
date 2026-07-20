@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-07-19T05:00:34.652Z",
+  "capturedAt": "2026-07-20T05:00:44.811Z",
   "epoch": {
-    "number": 194,
-    "starts_at": "2026-07-13T00:00:00.000Z",
-    "ends_at": "2026-07-20T00:00:00.000Z",
-    "progress_pct": 88.69620568783068
+    "number": 195,
+    "starts_at": "2026-07-20T00:00:00.000Z",
+    "ends_at": "2026-07-27T00:00:00.000Z",
+    "progress_pct": 2.9835997023809524
   },
-  "total_tvl_usd": 751.2842189059563,
+  "total_tvl_usd": 744.9689495410544,
   "unique_holders": 2,
   "vaults": [
     {
@@ -15,11 +15,11 @@
       "label": "ampLUNA-MAX",
       "lst_symbol": "ampLUNA",
       "vdenom": "factory/terra1v7aw9eartqrjrhwd6c7hkmlkspcy5q4tvc07gjmvzqezk3fttr4s3mffyz/max/vampluna",
-      "staked_lst_human": 53517.506187,
-      "exchange_rate": 1.5056026562700786,
-      "lock_vp_human": 1070176.280535,
+      "staked_lst_human": 53948.99926,
+      "exchange_rate": 1.5177418077955798,
+      "lock_vp_human": 1079626.50225,
       "holder_count": 2,
-      "total_underlying_usd": 559.2574167855227
+      "total_underlying_usd": 554.5712697928632
     },
     {
       "address": "terra1dr7mv4w6chznedhp7uw6ntz9zjj4hxcdga2lmenlfuj35vmwpf0qhnzm5p",
@@ -37,11 +37,11 @@
       "label": "arbLUNA-MAX",
       "lst_symbol": "arbLUNA",
       "vdenom": "factory/terra13aae4futz6jk7hmdv0gwm2xs6p4nxv4xwz5tc0c2vt4960u4j6jqpqmye9/max/varbluna",
-      "staked_lst_human": 216991.192414,
-      "exchange_rate": 1.4735491146413386,
-      "lock_vp_human": 5831456.355576,
+      "staked_lst_human": 218756.613183,
+      "exchange_rate": 1.485537777324781,
+      "lock_vp_human": 5879790.394083,
       "holder_count": 2,
-      "total_underlying_usd": 192.02680212043367
+      "total_underlying_usd": 190.39767974819122
     },
     {
       "address": "terra1mzelg87h36y6wvtgj6fh9s4crgx9acw63l3zc6f9px6pc5f8h8lqs0sux0",
@@ -70,8 +70,8 @@
       "label": "arbLUNA-1wk",
       "lst_symbol": "arbLUNA",
       "vdenom": "factory/terra16xzky47caqc3krsxpla58m36ttxcjty3zpp92344m2tere5t26ysuxkjuj/1/varbluna",
-      "staked_lst_human": 246.942355,
-      "exchange_rate": 1.0627174079107278,
+      "staked_lst_human": 247.277785,
+      "exchange_rate": 1.0641609322511978,
       "lock_vp_human": 0,
       "holder_count": 0,
       "total_underlying_usd": 0
