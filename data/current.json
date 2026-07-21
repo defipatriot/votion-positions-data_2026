@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-07-20T05:00:44.811Z",
-  "capturedAtUnix": 1784523644811,
+  "capturedAt": "2026-07-21T05:00:52.990Z",
+  "capturedAtUnix": 1784610052990,
   "epoch": {
     "number": 195,
     "starts_at": "2026-07-20T00:00:00.000Z",
     "ends_at": "2026-07-27T00:00:00.000Z",
-    "progress_pct": 2.9835997023809524
+    "progress_pct": 17.270666335978834
   },
   "retention": "live_only",
-  "luna_price_used_usd": 0.0455545,
+  "luna_price_used_usd": 0.04600866,
   "vault_count": 6,
-  "total_tvl_usd": 744.9689495410544,
+  "total_tvl_usd": 753.3079673134591,
   "unique_holders": 2,
   "vaults": [
     {
@@ -21,33 +21,33 @@
       "vdenom": "factory/terra1v7aw9eartqrjrhwd6c7hkmlkspcy5q4tvc07gjmvzqezk3fttr4s3mffyz/max/vampluna",
       "lock_id": "754",
       "protocol_fee": 0.1,
-      "staked_lst_human": 53948.99926,
+      "staked_lst_human": 53953.463566,
       "vdenom_supply_human": 35545.571047,
-      "exchange_rate": 1.5177418077955798,
-      "lock_vp_human": 1079626.50225,
+      "exchange_rate": 1.5178674016703861,
+      "lock_vp_human": 1080542.955915,
       "holder_count": 2,
       "historical_depositor_count": 2,
       "holder_discovery_complete": true,
-      "total_underlying_usd": 554.5712697928632,
+      "total_underlying_usd": 560.9340803743019,
       "holders": [
         {
           "address": "terra1en0qzvutst4g5aze9hx9j3dclxx9qzgqslrl8t",
           "vtoken_balance": 3218.70207,
-          "underlying_lst": 4885.158698477175,
-          "underlying_usd": 494.83179305549635,
+          "underlying_lst": 4885.562947741993,
+          "underlying_usd": 500.5091895244151,
           "underlying_usd_price_source": "network-and-prices/hub-ratio",
           "share_of_vault_pct": 9.055142385373646,
-          "implied_vp": 97761.7170089667,
+          "implied_vp": 97844.70319322844,
           "name": null
         },
         {
           "address": "terra1uxetja9462lfcpa2uqvrtg6th2sytddh3reely",
           "vtoken_balance": 388.583717,
-          "underlying_lst": 589.7697531195059,
-          "underlying_usd": 59.73947673736686,
+          "underlying_lst": 589.8185568542107,
+          "underlying_usd": 60.42489084988679,
           "underlying_usd_price_source": "network-and-prices/hub-ratio",
           "share_of_vault_pct": 1.0931986898907788,
-          "implied_vp": 11802.462778310639,
+          "implied_vp": 11812.481437769877,
           "name": null
         }
       ]
@@ -76,33 +76,33 @@
       "vdenom": "factory/terra13aae4futz6jk7hmdv0gwm2xs6p4nxv4xwz5tc0c2vt4960u4j6jqpqmye9/max/varbluna",
       "lock_id": "748",
       "protocol_fee": 0.1,
-      "staked_lst_human": 218756.613183,
+      "staked_lst_human": 218774.668228,
       "vdenom_supply_human": 147257.522846,
-      "exchange_rate": 1.485537777324781,
-      "lock_vp_human": 5879790.394083,
+      "exchange_rate": 1.485660385967457,
+      "lock_vp_human": 5880349.700946,
       "holder_count": 2,
       "historical_depositor_count": 2,
       "holder_discovery_complete": true,
-      "total_underlying_usd": 190.39767974819122,
+      "total_underlying_usd": 192.37388693915733,
       "holders": [
         {
           "address": "terra1en0qzvutst4g5aze9hx9j3dclxx9qzgqslrl8t",
           "vtoken_balance": 873.128082,
-          "underlying_lst": 1297.0647502541292,
-          "underlying_usd": 176.46195447018877,
+          "underlying_lst": 1297.1718033031455,
+          "underlying_usd": 178.29351766894794,
           "underlying_usd_price_source": "network-and-prices/hub-ratio",
           "share_of_vault_pct": 0.5929259606744206,
-          "implied_vp": 34862.80367975893,
+          "implied_vp": 34866.119955349495,
           "name": null
         },
         {
           "address": "terra1uxetja9462lfcpa2uqvrtg6th2sytddh3reely",
           "vtoken_balance": 68.953521,
-          "underlying_lst": 102.43306032505761,
-          "underlying_usd": 13.93572527800246,
+          "underlying_lst": 102.44151462267514,
+          "underlying_usd": 14.080369270209397,
           "underlying_usd_price_source": "network-and-prices/hub-ratio",
           "share_of_vault_pct": 0.04682512626000825,
-          "implied_vp": 2753.2192758532015,
+          "implied_vp": 2753.481171997982,
           "name": null
         }
       ]
