@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
-  "capturedAt": "2026-07-21T21:56:31.509Z",
+  "capturedAt": "2026-07-22T05:00:19.539Z",
   "epoch": {
     "number": 195,
     "starts_at": "2026-07-20T00:00:00.000Z",
     "ends_at": "2026-07-27T00:00:00.000Z",
-    "progress_pct": 27.346479662698414
+    "progress_pct": 31.55084970238095
   },
-  "total_tvl_usd": 35105.173914446554,
+  "total_tvl_usd": 34935.86590393735,
   "unique_holders": 18,
   "vaults": [
     {
@@ -19,8 +19,8 @@
       "exchange_rate": 1.518004362922639,
       "lock_vp_human": 1051043.738184,
       "holder_count": 15,
-      "total_underlying_usd": 3265.7863665906507,
-      "vault_tvl_usd": 5400.255393148236,
+      "total_underlying_usd": 3249.9474993828007,
+      "vault_tvl_usd": 5374.064479702221,
       "supply_coverage_pct": 60.474665156285624
     },
     {
@@ -33,7 +33,7 @@
       "lock_vp_human": 0,
       "holder_count": 0,
       "total_underlying_usd": 0,
-      "vault_tvl_usd": 0.2006500552120273,
+      "vault_tvl_usd": 0.19967691452766928,
       "supply_coverage_pct": 0
     },
     {
@@ -45,8 +45,8 @@
       "exchange_rate": 1.4857924313903237,
       "lock_vp_human": 5776204.902246,
       "holder_count": 7,
-      "total_underlying_usd": 1044.310014756716,
-      "vault_tvl_usd": 29670.357419384185,
+      "total_underlying_usd": 1039.278571766639,
+      "vault_tvl_usd": 29527.406849398874,
       "supply_coverage_pct": 3.5197082394243404
     },
     {
@@ -58,8 +58,8 @@
       "exchange_rate": 1.0147455,
       "lock_vp_human": 0,
       "holder_count": 1,
-      "total_underlying_usd": 0.2089950659380445,
-      "vault_tvl_usd": 0.2089950659380445,
+      "total_underlying_usd": 0.20798145245421326,
+      "vault_tvl_usd": 0.20798145245421326,
       "supply_coverage_pct": 100
     },
     {
@@ -85,7 +85,7 @@
       "lock_vp_human": 0,
       "holder_count": 0,
       "total_underlying_usd": 0,
-      "vault_tvl_usd": 34.15145679298393,
+      "vault_tvl_usd": 33.98691646927363,
       "supply_coverage_pct": 0
     }
   ]
