@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-07-30T05:00:44.681Z",
-  "runId": "votion-20260730050044",
+  "capturedAt": "2026-07-31T05:00:57.137Z",
+  "runId": "votion-20260731050057",
   "status": "partial",
-  "next_expected_run_at": "2026-07-31T06:00:44.681Z",
+  "next_expected_run_at": "2026-08-01T06:00:57.137Z",
   "stats": {
     "vault_count": 6,
-    "unique_holders": 17,
-    "total_tvl_usd": 30788.022727850635,
+    "unique_holders": 18,
+    "total_tvl_usd": 31201.92707845488,
     "any_discovery_incomplete": true,
     "discovery": {
       "universe": "community-catalog + recent-deposit-events",
-      "catalog_source": "org-catalog@2026-07-30",
+      "catalog_source": "org-catalog@2026-07-31",
       "catalog_addresses": 389,
-      "deposit_event_addresses": 3,
-      "candidates_swept": 391,
+      "deposit_event_addresses": 4,
+      "candidates_swept": 392,
       "tx_search_complete": true
     },
     "error_count": 0
