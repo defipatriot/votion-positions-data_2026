@@ -1,27 +1,27 @@
 {
   "schemaVersion": 2,
-  "capturedAt": "2026-07-30T05:00:44.681Z",
+  "capturedAt": "2026-07-31T05:00:57.137Z",
   "epoch": {
     "number": 196,
     "starts_at": "2026-07-27T00:00:00.000Z",
     "ends_at": "2026-08-03T00:00:00.000Z",
-    "progress_pct": 45.840721064814815
+    "progress_pct": 60.12849487433862
   },
-  "total_tvl_usd": 30788.022727850635,
-  "unique_holders": 17,
+  "total_tvl_usd": 31201.92707845488,
+  "unique_holders": 18,
   "vaults": [
     {
       "address": "terra1v7aw9eartqrjrhwd6c7hkmlkspcy5q4tvc07gjmvzqezk3fttr4s3mffyz",
       "label": "ampLUNA-MAX",
       "lst_symbol": "ampLUNA",
       "vdenom": "factory/terra1v7aw9eartqrjrhwd6c7hkmlkspcy5q4tvc07gjmvzqezk3fttr4s3mffyz/max/vampluna",
-      "staked_lst_human": 48748.308266,
-      "exchange_rate": 1.531261150833362,
-      "lock_vp_human": 983046.407301,
-      "holder_count": 14,
-      "total_underlying_usd": 2536.3154075516777,
-      "vault_tvl_usd": 4441.11791095404,
-      "supply_coverage_pct": 57.10984167512966
+      "staked_lst_human": 48799.078555,
+      "exchange_rate": 1.5314556704667877,
+      "lock_vp_human": 985227.812388,
+      "holder_count": 15,
+      "total_underlying_usd": 2574.2694718120697,
+      "vault_tvl_usd": 4504.4856416086595,
+      "supply_coverage_pct": 57.14902158934927
     },
     {
       "address": "terra1dr7mv4w6chznedhp7uw6ntz9zjj4hxcdga2lmenlfuj35vmwpf0qhnzm5p",
@@ -33,7 +33,7 @@
       "lock_vp_human": 0,
       "holder_count": 0,
       "total_underlying_usd": 0,
-      "vault_tvl_usd": 0.18217031974175762,
+      "vault_tvl_usd": 0.18457736890859636,
       "supply_coverage_pct": 0
     },
     {
@@ -41,12 +41,12 @@
       "label": "arbLUNA-MAX",
       "lst_symbol": "arbLUNA",
       "vdenom": "factory/terra13aae4futz6jk7hmdv0gwm2xs6p4nxv4xwz5tc0c2vt4960u4j6jqpqmye9/max/varbluna",
-      "staked_lst_human": 216637.899375,
-      "exchange_rate": 1.4984657013393732,
-      "lock_vp_human": 5827119.381576,
+      "staked_lst_human": 216665.090838,
+      "exchange_rate": 1.4986537823482469,
+      "lock_vp_human": 5831955.773343,
       "holder_count": 6,
-      "total_underlying_usd": 923.1710711471792,
-      "vault_tvl_usd": 26316.45662893649,
+      "total_underlying_usd": 935.4536839140115,
+      "vault_tvl_usd": 26666.592000668512,
       "supply_coverage_pct": 3.507961136880786
     },
     {
@@ -58,8 +58,8 @@
       "exchange_rate": 1.0147455,
       "lock_vp_human": 0,
       "holder_count": 1,
-      "total_underlying_usd": 0.1848927511707392,
-      "vault_tvl_usd": 0.1848927511707392,
+      "total_underlying_usd": 0.18733577231321144,
+      "vault_tvl_usd": 0.18733577231321144,
       "supply_coverage_pct": 100
     },
     {
@@ -85,7 +85,7 @@
       "lock_vp_human": 0,
       "holder_count": 0,
       "total_underlying_usd": 0,
-      "vault_tvl_usd": 30.081124889196317,
+      "vault_tvl_usd": 30.477523036486602,
       "supply_coverage_pct": 0
     }
   ]
